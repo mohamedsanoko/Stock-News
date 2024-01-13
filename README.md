@@ -19,6 +19,7 @@ The project consists of a single Python script. This script fetches stock price 
 **Stock and Company Information**: 
   1. Update 'STOCK' with the desired stock symbol.
   2. Update 'COMPANY_NAME' with the desired company name.
+
 **Twilio SMS Alert**: Customize the SMS alert message format in the script to match your preferences.
 
 # Notes
